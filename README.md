@@ -1,7 +1,7 @@
 <h1>Power Point Navigation </h1>
 <p>Power Point Navigator lets you navigate across powerpoint slides using Laser Gesture</p>
 
-<h2>Motivation</p>
+<h2>Motivation</h2>
 <p>
   This project was made to understand basics of Image Processing using OpenCV and java. 
   Power Point Navigator makes use of Thresholding in Image Processing to track movement of a birght Laser Light on the frame.
